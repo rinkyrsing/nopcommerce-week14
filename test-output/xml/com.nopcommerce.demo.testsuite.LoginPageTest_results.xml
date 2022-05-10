@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sanity suity"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.063">
+  <properties />
+  
+  
+            <testcase name="verifyErrorMessageWithInvalidCredentials" time="2.481" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyUserShouldNavigateToLoginPage" time="0.582" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+      
+</testsuite>
